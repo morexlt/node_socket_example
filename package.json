@@ -1,0 +1,20 @@
+{
+  "name": "ejercicios",
+  "version": "1.0.0",
+  "description": "ejercicios de node",
+  "main": "server.js",
+  "dependencies": {
+    "through2": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://fipmgit.no-ip.biz:8102/martin.moreira/misEjerciciosNode.git"
+  },
+  "author": "more",
+  "license": "ISC"
+}
